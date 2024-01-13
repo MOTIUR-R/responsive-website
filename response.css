@@ -177,6 +177,18 @@ main{
     width: 165px;
 }
 
+.footer-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background: #FFF4E7;
+    padding-top: 39px;
+    padding-bottom: 35px;
+    margin: 40px;
+}
+
+
 @media screen and (max-width:576px) {
     header{
         padding: 20px;
